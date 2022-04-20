@@ -9,8 +9,11 @@ Agar permainan bahasa G atau bahasa G ini tidak dilupakan dan ini salah satu kon
 untuk melestarikanya
 
 ## Bagaimana menggunakanya?
-Silahkan clone repository ini ke computer local anda, untuk
-melihat source code ini silahkan buka file gego/gego.go
+Silahkan install package ini dengan cara
+```shell
+go get github.com/refaldyrk/gego
+
+```
 
 ##Cara Penggunaanya
 ```go
